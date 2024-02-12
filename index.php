@@ -35,6 +35,9 @@
                         <li class="menu__item">
                             <a href="#" class="menu__link">Contact</a>
                         </li>
+                        <li>
+                            <a href="#"class="menu__link">About Us</a>
+                        </li>
                     </ul>
                     <div class="header__signup">
                         <a href="login.php" class="btn btn__signup">
@@ -58,12 +61,13 @@
                 <div class="hero__text">
                     <h1 class="hero__title">A New Way to Scrap Out Unecessarry Things</h1>
                     <p class="hero__description">
-                        Scrap Out provides Scrape Sellers, Scrap Buyers a platform to connect with the desired ones.
+                    Scrap Out has created a digital marketplace that connects Scrap Sellers and Scrap Buyers, streamlining the buying and selling process of scrap materials and enhancing communication and collaboration between the parties involved.
                     </p>
                     <a href="register.php" class="btn btn__hero">Register Now</a>
                 </div>
                 <div class="hero__img">
                     <img src="assets/img/hero1.jpg" alt="hero">
+
                 </div>
             </div>
         </section>
@@ -104,7 +108,7 @@
             </div>
         </section>
 
-        <section class="invest  w-105">
+        <!-- <section class="invest  w-105">
             <div class="invest__content">
                 <div class="invest__head">
                     <h2 class="invest__title">Invest on your convenience</h2>
@@ -128,7 +132,7 @@
                     <div class="invest__item">
                         <div class="invest__item__head">
                             <h5 class="invest__item__subtitle">FULLY FUNDED</h5>
-                        </div>
+                        </div>      
                         <div class="invest__item__body">
                             <h4 class="invest__item__title">Long terms investment
                             </h4>
@@ -142,7 +146,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="how-is-works w-120">
             <div class="works__content">
@@ -397,9 +401,9 @@
                     </ul>
                 </nav>
                 <div class="footer__contact">
-                    <h5 class="footer__contact__title">Blog Zou</h5>
+                    <h5 class="footer__contact__title">Have Queries?</h5>
                     <span>Write email to us</span>
-                    <a href="mailto:info@zoufarm.com" class="email">info@zoufarm.com</a>
+                    <a href="mailto:agiledev@gmail.com" class="email">agiledev@gmail.com</a>    
                     <a href="login.php" class="btn btn__signin">
                         <i class="far fa-user"></i> LogIn
                     </a>
